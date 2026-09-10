@@ -6,6 +6,7 @@
 
 Konflux lab build validation.
 Post-restart Konflux pipeline validation.
+testing build
 
 The blackbox exporter allows blackbox probing of endpoints over
 HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
