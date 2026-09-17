@@ -4,6 +4,7 @@
 [![Docker Repository on Quay](https://quay.io/repository/prometheus/blackbox-exporter/status)][quay]
 [![Docker Pulls](https://img.shields.io/docker/pulls/prom/blackbox-exporter.svg?maxAge=604800)][hub]
 
+Konflux Team Demo Validation
 Konflux lab build validation.
 Post-restart Konflux pipeline validation.
 testing build
